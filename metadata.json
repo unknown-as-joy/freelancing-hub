@@ -1,0 +1,6 @@
+{
+  "name": "FREELANCING HUB",
+  "description": "Full-stack freelancing marketplace led by Joy connecting clients and freelance talent with project management, escrow payments, messaging, and revenue analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
